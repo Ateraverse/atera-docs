@@ -1,0 +1,22 @@
+{
+    "collections": {
+        "activities": {
+            "name": "activities"
+        },
+        "users": {
+            "name": "users"
+        },
+        "proxies": {
+            "name": "proxies",
+            "docs": {
+                "activities": "activities"
+            }
+        },
+        "common": {
+            "name": "common",
+            "docs": {
+                "categories": "categories"
+            }
+        }
+    }
+}
